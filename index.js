@@ -8,7 +8,7 @@ app.use(cors());
 const Characters = {
   "tommy pickles": {
     "Full Name": "Thomas Pickles",
-    Age: 0,
+    Age: 1,
     Personality: "Fearless, happy-go-lucky, brave, smart, kind",
     Quote: "A baby's gotta do what a baby's gotta do!",
     Enemies: "Angelica",
