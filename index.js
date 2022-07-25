@@ -49,7 +49,7 @@ const Characters = {
       "Exploring, going on adventures, playing with her friends and her brother Chuckie, and spending time with her mother, Kira, and her father, Chas",
     Quote: "I just love my new big brother.",
     Enemies: "Angelica",
-    image: "Kimi_Finster2.webp",
+    image: "Kimi_Finster2copy.png",
   },
   angelicapickles: {
     fullName: "Angelica Charlotte Pickles",
