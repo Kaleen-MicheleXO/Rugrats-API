@@ -6,14 +6,14 @@ const PORT = 8000;
 app.use(cors());
 
 const Characters = {
-  "tommy pickles": {
+  tommypickles: {
     "Full Name": "Thomas Pickles",
     Age: 1,
     Personality: "Fearless, happy-go-lucky, brave, smart, kind",
     Quote: "A baby's gotta do what a baby's gotta do!",
     Enemies: "Angelica",
   },
-  "chuckie finster": {
+  chuckiefinster: {
     "Full Name": "Charles Crandall Finster Jr. (III)",
     Age: 2,
     Personality:
@@ -21,7 +21,7 @@ const Characters = {
     Quote: "I don't think this is such a good idea.",
     Enemies: "Angelica",
   },
-  "phil deVille": {
+  phildeVille: {
     "Full Name": "Phillip Richard William DeVille",
     Age: "1 1/4",
     Interests:
@@ -29,7 +29,7 @@ const Characters = {
     Quote: "Is too, Lillian!",
     Enemies: "Angelica",
   },
-  "lil deVille": {
+  lildeVille: {
     "Full Name": "Lillian Marie Jill DeVille",
     Age: " 1 1/4",
     Interests:
@@ -38,7 +38,7 @@ const Characters = {
     Enemies: "Angelica",
   },
 
-  "kimi finster": {
+  kimifinster: {
     "Full Name": "Kimi Finster",
     Age: "1 1/2",
     Interests:
@@ -46,7 +46,7 @@ const Characters = {
     Quote: "I just love my new big brother.",
     Enemies: "Angelica",
   },
-  "angelica pickles": {
+  angelicapickles: {
     "Full Name": "Angelica Charlotte Pickles",
     Age: "2" - "4",
     Personality:
@@ -55,14 +55,14 @@ const Characters = {
     Enemies:
       "Susie Carmichael (sometimes), Tommy Pickles (sometimes), Chuckie Finster (sometimes), Phil and Lil DeVille",
   },
-  "susie carmichael": {
+  susiecarmichael: {
     "Full Name": "Susanna Yvonne Carmichael",
     Age: "3 1/2",
     Interests: "Singing, pretending, imagining, dancing, playing, helping",
     Quote: "Hey! Leave them little kids alone!",
     Enemies: "Angelica",
   },
-  "dil pickles": {
+  dilpickles: {
     "Full Name": "Dylan Prescott Pickles",
     Age: "3 months",
     Interests:
