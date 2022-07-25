@@ -21,7 +21,7 @@ const Characters = {
       "Shy, timid, cowardly, brave (at times), friendly, nervous, anxious, bashful, loyal, nerdy, smart, stubborn",
     Quote: "I don't think this is such a good idea.",
     Enemies: "Angelica",
-    image: "chuckie_finster-logo.png",
+    image: "Chuckie.webp",
   },
   phildeVille: {
     fullName: "Phillip Richard William DeVille",
