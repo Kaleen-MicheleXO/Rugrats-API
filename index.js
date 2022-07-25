@@ -76,7 +76,7 @@ const Characters = {
       "Pulling things, including hair (Rugrats) Grabbing items (Rugrats) Eating (Rugrats) Hitting people on the head with various objects ",
     Quote: "'yucky!', '(giggles)','gee...yucka','poopy!'",
     Enemies: "Angelica",
-    image: "/Dil_Pickles.webp",
+    image: "../Dil_Pickles.webp",
   },
   unknown: {
     fullName: "unknown",
