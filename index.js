@@ -7,14 +7,14 @@ app.use(cors());
 
 const Characters = {
   tommypickles: {
-    "Full Name": "Thomas Pickles",
+    fullName: "Thomas Pickles",
     Age: 1,
     Personality: "Fearless, happy-go-lucky, brave, smart, kind",
     Quote: "A baby's gotta do what a baby's gotta do!",
     Enemies: "Angelica",
   },
   chuckiefinster: {
-    "Full Name": "Charles Crandall Finster Jr. (III)",
+    fullName: "Charles Crandall Finster Jr. (III)",
     Age: 2,
     Personality:
       "Shy, timid, cowardly, brave (at times), friendly, nervous, anxious, bashful, loyal, nerdy, smart, stubborn",
@@ -22,7 +22,7 @@ const Characters = {
     Enemies: "Angelica",
   },
   phildeVille: {
-    "Full Name": "Phillip Richard William DeVille",
+    fullName: "Phillip Richard William DeVille",
     Age: "1 1/4",
     Interests:
       "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
@@ -30,7 +30,7 @@ const Characters = {
     Enemies: "Angelica",
   },
   lildeVille: {
-    "Full Name": "Lillian Marie Jill DeVille",
+    fullName: "Lillian Marie Jill DeVille",
     Age: " 1 1/4",
     Interests:
       "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
@@ -39,7 +39,7 @@ const Characters = {
   },
 
   kimifinster: {
-    "Full Name": "Kimi Finster",
+    fullName: "Kimi Finster",
     Age: "1 1/2",
     Interests:
       "Exploring, going on adventures, playing with her friends and her brother Chuckie, and spending time with her mother, Kira, and her father, Chas",
@@ -47,7 +47,7 @@ const Characters = {
     Enemies: "Angelica",
   },
   angelicapickles: {
-    "Full Name": "Angelica Charlotte Pickles",
+    fullName: "Angelica Charlotte Pickles",
     Age: "2" - "4",
     Personality:
       "Bratty, spoiled, bullish, aggressive, harsh, strict, mean, uncaring, rude, selfish, envious, sadistic, greedy, arrogant, egotistical, cowardly, abusive, conceited, two-faced, ungrateful, snooty, snobby, loudmouthed, maniacal, cold, threatening, dishonest, tyrannical, cantankerous, deceitful",
@@ -56,14 +56,14 @@ const Characters = {
       "Susie Carmichael (sometimes), Tommy Pickles (sometimes), Chuckie Finster (sometimes), Phil and Lil DeVille",
   },
   susiecarmichael: {
-    "Full Name": "Susanna Yvonne Carmichael",
+    fullName: "Susanna Yvonne Carmichael",
     Age: "3 1/2",
     Interests: "Singing, pretending, imagining, dancing, playing, helping",
     Quote: "Hey! Leave them little kids alone!",
     Enemies: "Angelica",
   },
   dilpickles: {
-    "Full Name": "Dylan Prescott Pickles",
+    fullName: "Dylan Prescott Pickles",
     Age: "3 months",
     Interests:
       "Pulling things, including hair (Rugrats) Grabbing items (Rugrats) Eating (Rugrats) Hitting people on the head with various objects ",
@@ -71,7 +71,7 @@ const Characters = {
     Enemies: "Angelica",
   },
   unknown: {
-    "Full Name": "unknown",
+    fullName: "unknown",
     Age: "unknown",
     Interests: "unknown ",
     Quote: "unknown",
