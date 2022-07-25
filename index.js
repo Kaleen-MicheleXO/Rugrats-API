@@ -12,6 +12,7 @@ const Characters = {
     Personality: "Fearless, happy-go-lucky, brave, smart, kind",
     Quote: "A baby's gotta do what a baby's gotta do!",
     Enemies: "Angelica",
+    image: "Tommy-Pickles-from-Rugrats.webp",
   },
   chuckiefinster: {
     fullName: "Charles Crandall Finster Jr. (III)",
