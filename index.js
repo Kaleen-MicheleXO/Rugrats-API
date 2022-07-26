@@ -12,7 +12,7 @@ const Characters = {
     Personality: "Fearless, happy-go-lucky, brave, smart, kind",
     Quote: "A baby's gotta do what a baby's gotta do!",
     Enemies: "Angelica",
-    image: "Tommy-Pickles-from-Rugrats.webp",
+    image: "Tommy_Pickles_in_Newer_Years.webp",
   },
   chuckiefinster: {
     fullName: "Charles Crandall Finster Jr. (III)",
@@ -21,7 +21,7 @@ const Characters = {
       "Shy, timid, cowardly, brave (at times), friendly, nervous, anxious, bashful, loyal, nerdy, smart, stubborn",
     Quote: "I don't think this is such a good idea.",
     Enemies: "Angelica",
-    image: "/chuckiefinster-rugrats-character.webp",
+    image: "Chuckie.webp",
   },
   phildeVille: {
     fullName: "Phillip Richard William DeVille",
@@ -78,13 +78,13 @@ const Characters = {
     Enemies: "Angelica",
     image: "../Dil_Pickles.webp",
   },
-  unknown: {
-    fullName: "unknown",
-    Age: "unknown",
-    Interests: "unknown ",
-    Quote: "unknown",
-    Enemies: "unknown",
-  },
+  // unknown: {
+  //   fullName: "unknown",
+  //   Age: "unknown",
+  //   Interests: "unknown ",
+  //   Quote: "unknown",
+  //   Enemies: "unknown",
+  // },
 };
 
 app.get("/", (request, response) => {
