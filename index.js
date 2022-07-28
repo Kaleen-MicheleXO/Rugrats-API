@@ -32,7 +32,6 @@ const Characters = {
     Enemies: "Angelica",
     image: "assets/Phil_Deville-_oil_painted.webp",
   },
-
   lildeville: {
     fullName: "Lillian Marie Jill DeVille",
     Age: " 1 1/4",
