@@ -21,7 +21,7 @@ const Characters = {
       "Shy, timid, cowardly, brave (at times), friendly, nervous, anxious, bashful, loyal, nerdy, smart, stubborn",
     Quote: "I don't think this is such a good idea.",
     Enemies: "Angelica",
-    image: "Chuckie.webp",
+    image: "assets/Chuckie.webp",
   },
   phildeVille: {
     fullName: "Phillip Richard William DeVille",
@@ -30,7 +30,7 @@ const Characters = {
       "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
     Quote: "Is too, Lillian!",
     Enemies: "Angelica",
-    image: "/Phil_Deville-_oil_painted.webp",
+    image: "assets/Phil_Deville-_oil_painted.webp",
   },
   lildeVille: {
     fullName: "Lillian Marie Jill DeVille",
@@ -39,7 +39,7 @@ const Characters = {
       "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
     Quote: "Is not, Phillip",
     Enemies: "Angelica",
-    image: "/Lil_DeVille.webp",
+    image: "assets/Lil_DeVille.webp",
   },
 
   kimifinster: {
@@ -49,7 +49,7 @@ const Characters = {
       "Exploring, going on adventures, playing with her friends and her brother Chuckie, and spending time with her mother, Kira, and her father, Chas",
     Quote: "I just love my new big brother.",
     Enemies: "Angelica",
-    image: "/Kimi_Finster2.webp",
+    image: "assets/Kimi_Finster2.webp",
   },
   angelicapickles: {
     fullName: "Angelica Charlotte Pickles",
@@ -59,7 +59,7 @@ const Characters = {
     Quote: "You dumb babies!",
     Enemies:
       "Susie Carmichael (sometimes), Tommy Pickles (sometimes), Chuckie Finster (sometimes), Phil and Lil DeVille",
-    image: "/Angelica_Pickles.webp",
+    image: "assets/Angelica_Pickles.webp",
   },
   susiecarmichael: {
     fullName: "Susanna Yvonne Carmichael",
@@ -67,7 +67,7 @@ const Characters = {
     Interests: "Singing, pretending, imagining, dancing, playing, helping",
     Quote: "Hey! Leave them little kids alone!",
     Enemies: "Angelica",
-    image: "/Susie_Carmichael_Oil_Painted.webp",
+    image: "assets/Susie_Carmichael_Oil_Painted.webp",
   },
   dilpickles: {
     fullName: "Dylan Prescott Pickles",
@@ -76,7 +76,7 @@ const Characters = {
       "Pulling things, including hair (Rugrats) Grabbing items (Rugrats) Eating (Rugrats) Hitting people on the head with various objects ",
     Quote: "'yucky!', '(giggles)','gee...yucka','poopy!'",
     Enemies: "Angelica",
-    image: "../Dil_Pickles.webp",
+    image: "assets/Dil_Pickles.webp",
   },
   // unknown: {
   //   fullName: "unknown",
