@@ -27,7 +27,7 @@ const Characters = {
     fullName: "Phillip Richard William DeVille",
     Age: "1.5",
     Interests:
-      "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
+      "Devouring worms and bugs, Drinking toilet water,Playing with his friend",
     Quote: "Is too, Lillian!",
     Enemies: "Angelica",
     image: "assets/Phil_Deville-_oil_painted.webp",
@@ -36,7 +36,7 @@ const Characters = {
     fullName: "Lillian Marie Jill DeVille",
     Age: " 1 1/4",
     Interests:
-      "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
+      "Devouring worms and bugs,Drinking toilet wate, Playing with her friends",
     Quote: "Is not, Phillip",
     Enemies: "Angelica",
     image: "assets/Lil_DeVille.webp",
@@ -46,7 +46,7 @@ const Characters = {
     fullName: "Kimi Finster",
     Age: "1 1/2",
     Interests:
-      "Exploring, going on adventures, playing with her friends and her brother Chuckie, and spending time with her mother, Kira, and her father, Chas",
+      "Exploring, going on adventures",
     Quote: "I just love my new big brother.",
     Enemies: "Angelica",
     image: "assets/Kimi_Finster2.webp",
@@ -55,10 +55,10 @@ const Characters = {
     fullName: "Angelica Charlotte Pickles",
     Age: "4",
     Personality:
-      "Bratty, spoiled, bullish, aggressive, harsh, strict, mean, uncaring, rude, selfish, envious, sadistic, greedy, arrogant, egotistical, cowardly, abusive, conceited, two-faced, ungrateful, snooty, snobby, loudmouthed, maniacal, cold, threatening, dishonest, tyrannical, cantankerous, deceitful",
+      "Bratty, spoiled, mean, selfish, greedy, conceited, loudmouthed, dishonest",
     Quote: "You dumb babies!",
     Enemies:
-      "Susie Carmichael (sometimes), Tommy Pickles (sometimes), Chuckie Finster (sometimes), Phil and Lil DeVille",
+      "Susie Carmichael, Tommy Pickles, Chuckie Finster, Phil and Lil DeVille",
     image: "assets/Angelica_Pickles.webp",
   },
   susiecarmichael: {
@@ -73,19 +73,12 @@ const Characters = {
     fullName: "Dylan Prescott Pickles",
     Age: "3 months",
     Interests:
-      "Pulling things, including hair (Rugrats) Grabbing items (Rugrats) Eating (Rugrats) Hitting people on the head with various objects ",
+      "Pulling things,Grabbing items, Eating,Hitting people on the head with various objects ",
     Quote: "'yucky!', '(giggles)','gee...yucka','poopy!'",
     Enemies: "Angelica",
     image: "assets/Dil_Pickles.webp",
   },
-  // unknown: {
-  //   fullName: "unknown",
-  //   Age: "unknown",
-  //   Interests: "unknown ",
-  //   Quote: "unknown",
-  //   Enemies: "unknown",
-  // },
-};
+}
 
 app.get("/", (request, response) => {
   response.sendFile(__dirname + "/index.html");
