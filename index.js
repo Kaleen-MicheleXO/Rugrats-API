@@ -23,7 +23,7 @@ const Characters = {
     Enemies: "Angelica",
     image: "assets/Chuckie.webp",
   },
-  phildeVille: {
+  phildevill: {
     fullName: "Phillip Richard William DeVille",
     Age: "1.5",
     Interests:
@@ -32,7 +32,8 @@ const Characters = {
     Enemies: "Angelica",
     image: "assets/Phil_Deville-_oil_painted.webp",
   },
-  lildeVille: {
+
+  lildeville: {
     fullName: "Lillian Marie Jill DeVille",
     Age: " 1 1/4",
     Interests:
