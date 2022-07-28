@@ -25,7 +25,7 @@ const Characters = {
   },
   phildeVille: {
     fullName: "Phillip Richard William DeVille",
-    Age: "1 1/4",
+    Age: "1.5",
     Interests:
       "Devouring worms and bugs (formerly) Playing with her friend Drinking toilet water (formerly)",
     Quote: "Is too, Lillian!",
